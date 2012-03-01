@@ -1,0 +1,8 @@
+# ignore les fichiers ayant pour extension « .class »,
+*.class 
+# le dossier « target »
+target
+# les fichiers « .settings », « .classpath » et « .project ».
+*.settings
+*.classpath
+*.project ».
